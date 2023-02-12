@@ -1,4 +1,4 @@
-# Cardiac Arrest Predictor
+# Prostate Cancer Detector
 
 ![home](https://user-images.githubusercontent.com/64016811/218309224-c9865c70-10a4-4f35-a182-80151212118c.png)
 
@@ -6,11 +6,11 @@
 
 ### Problem : 
 
-Heart Attack is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
+Prostate cancer is one of the most common types of cancer. Many prostate cancers grow slowly and are confined to the prostate gland, where they may not cause serious harm. However, while some types of prostate cancer grow slowly and may need minimal or even no treatment, other types are aggressive and can spread quickly.
 
 ### Solution:
 
-This Web app will help you to predict whether a person has chances of cardiac arrest or is prone to get it in future by analysing the values of several features using the Decision Tree Classifier.
+This Web app will help you to predict whether a person has chances of cardiac arrest or is prone to get it in future by analysing the values of several features using the Random Forest Classifier.
 
 ### Idea: 
 Building an application that can predict the occurrence of a cardiac arrest or the possible causes of it by indicating the highly relevant factors. 
