@@ -10,7 +10,7 @@ Prostate cancer is one of the most common types of cancer. Many prostate cancers
 
 ### Solution:
 
-This Web app will help you to predict whether a person has chances of cardiac arrest or is prone to get it in future by analysing the values of several features using the Random Forest Classifier.
+This Web app will help you to detect the presence of Prostate Cancer in an individual features using the Random Forest Classifier.
 
 ### Idea: 
 Building an application that can predict the occurrence of a cardiac arrest or the possible causes of it by indicating the highly relevant factors. 
